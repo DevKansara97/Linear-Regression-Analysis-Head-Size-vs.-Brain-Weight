@@ -1,7 +1,7 @@
 # Linear-Regression-Analysis-Head-Size-vs.-Brain-Weight
 
-**Repository Description:
-**
+<b>Repository Description:</b>
+
 This project implements a simple linear regression model to analyze the relationship between head size (in cm³) and brain weight (in grams). Using both manual calculations and scikit-learn's Linear Regression, it demonstrates key concepts such as:
 
 - Calculating slope, intercept, and R² score manually.
